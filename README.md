@@ -1,7 +1,6 @@
 # Responsive-carousel
 This is a responsive carousel made on top of owl carousel.
-
-
+<a href="http://hardikjain.com/Responsive-carousel/">Demo</a><br>
 The features are:
 <ol>
 <li>A 3,2,1 slide carousel,i.e,on desktop 3 slides will be shown while on tab 2 slides and, you guessed it, on mobile 1.</li>
